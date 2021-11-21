@@ -1,2 +1,3 @@
 # utd-jsa-website
-Website for UTD Japanese Student Association
+Website for the Japanese Student Association at UTD
+
